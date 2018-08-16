@@ -51,14 +51,14 @@ Example output:
   	Final "status" of the cache:	
 	
   	Cache blk #     dirty bit       valid bit       tag     Data	
-    		  0             1               1       0000    mm blk # 0						
-  	          1             1               1       0010    mm blk # 2							
-   	          2             0               1       0001    mm blk # 1						
-     		  3             0               0       xxxx    xxxx						
-        	  4             0               0       xxxx    xxxx						
-            	  5             0               0       xxxx    xxxx						
-            	  6             0               0       xxxx    xxxx						
-            	  7             0               0       xxxx    xxxx						
+		0             1               1       0000    mm blk # 0						
+		1             1               1       0010    mm blk # 2							
+		2             0               1       0001    mm blk # 1						
+		3             0               0       xxxx    xxxx						
+		4             0               0       xxxx    xxxx						
+		5             0               0       xxxx    xxxx						
+		6             0               0       xxxx    xxxx						
+		7             0               0       xxxx    xxxx						
 
   Continue? ('y' = yes, any other input = no): n
 
