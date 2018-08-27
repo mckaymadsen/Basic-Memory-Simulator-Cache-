@@ -60,5 +60,5 @@ Example output:
 		6             0               0       xxxx    xxxx						
 		7             0               0       xxxx    xxxx						
 
-  Continue? ('y' = yes, any other input = no): n
+        Continue? ('y' = yes, any other input = no): n
 
